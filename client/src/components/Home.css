@@ -1,0 +1,93 @@
+.borderSel {
+    border: solid;
+    border-width: 3px;
+    text-align: center;
+    margin-top: 10px;
+    background-color: #D6DBDF;
+}
+
+.navHome {
+    background-color: rgb(190, 190, 190);
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 10px;
+    font-size: 180%;
+}
+
+.activity {
+    background-color: #2E86C1;
+    color: #fff;
+    border: #2E86C1;
+    border-radius: 5px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.activityCancel {
+    background-color: #525252;
+    color: #fff;
+    border: #7c7c7c;
+    border-radius: 5px;
+    padding: 5px;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.containerCards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.cardCountry {
+    border: 10px;
+    border: solid;
+    text-align: center;
+    width: 400px;
+    margin: 20px;
+    padding: 30px;
+    border-color: gray gray;
+    border-width: 2px 10px 5px;
+    background-color: #D6DBDF;
+    color: #283747;
+    cursor: pointer;
+}
+
+.addedCardCountry {
+    border: 10px;
+    border: solid;
+    text-align: center;
+    width: 400px;
+    margin: 20px;
+    padding: 30px;
+    border-color: #2980B9 #2980B9;
+    border-width: 2px 10px 5px;
+    background-color: #AED6F1;
+    color: #283747;
+    cursor: pointer;
+}
+
+.inputs {
+    /* width: 40%;
+    display: flex; */
+    /* flex-wrap: wrap; */
+    margin: 0 10px;
+}
+
+.containerForm {
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
+
+.subTitle {
+    color: #3a536e;
+}
+
+.itemsForm {
+    margin-left: 3px;
+    min-width: 7rem;
+}

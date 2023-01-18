@@ -1,0 +1,37 @@
+.containerDet {
+    text-align: center;
+    box-shadow: 3px 3px 5px 3px #242424;
+    padding: 10px;
+}
+
+.textT {
+    text-decoration: underline;
+    font-size: 40px;
+    color: #6a6a6a;
+    font-weight: 100;
+}
+
+.textC {
+    font-size: 30px;
+    color: #242424;
+    font-weight: 40;
+}
+
+.containerActivities {
+    display: flex;
+    justify-content: center;
+}
+
+.containerActivity {
+    background-color: #6a6a6a;
+    color: #fff;
+    width: 25%;
+    border-radius: 30px;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.containerActivity p {
+    margin: 0;
+}

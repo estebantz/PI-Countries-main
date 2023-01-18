@@ -1,0 +1,53 @@
+body {
+  margin: 1rem;
+}
+
+.page {
+  cursor: pointer;
+  margin: 2px;
+}
+
+.currentPage {
+  background-color: grey;
+  color: white;
+}
+
+.textCenter {
+  text-align: center;
+}
+
+.marginTop {
+  margin-top: 150px;
+}
+
+.magin {
+  margin: 15px;
+}
+
+img {
+
+  height: 200px;
+
+  width: 350px;
+
+}
+
+.buttonHome {
+  background-color: #34495E;
+  border: #fff;
+  border-radius: 10px;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+.dibBott {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 30px;
+
+}
+
+.textDecorationNone {
+  color: #fff;
+  text-decoration: none;
+}
